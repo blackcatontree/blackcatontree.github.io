@@ -201,7 +201,7 @@ artitalk:
   appKey: 
 editedArticle:
   enable: true
-  repo: https://github.com/blackatontree/zhoushilei.github.io
+  repo: https://github.com/blackcatontree/zhoushilei.github.io
 #------------------------
 # minify config
 # css minify uses autoprefixer and clean-css
