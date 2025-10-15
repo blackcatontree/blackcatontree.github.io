@@ -126,17 +126,17 @@ comment:
     enableQQ: false
     requiredFields: []
   gitalk:
-    clientID:
-    clientSecret:
-    repo:
-    owner:
-    admin:
-    id: location.href
-    distractionFreeMode: false
-    # en | zh-CN | zh-TW
-    language: navigator.language || navigator.userLanguage
-    labels: ['Gitalk']
-    perPage: 10
+    clientID: Iv23lia9xR0m3NKgGHcF
+    clientSecret: z2un4sm3bv # 👈 替换为您在 GitHub 注册的 Secret
+    repo: blackcatontree.github.io # 👈 评论存放的仓库名，即您的博客仓库名
+    owner: blackcatontree # 👈 仓库拥有者
+    admin: ['blackcatontree'] # 👈 您的 GitHub 用户名（必须是列表格式，即加方括号）
+    id: location.href
+    distractionFreeMode: false
+    # en | zh-CN | zh-TW
+    language: zh-CN # 建议改为 zh-CN
+    labels: ['Gitalk']
+    perPage: 10
   livere:
     uid:
   waline:
